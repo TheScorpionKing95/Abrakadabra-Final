@@ -1,6 +1,8 @@
 [build]
-  publish = "."
-  command = "npm install --omit=dev && npm run build"
+publish = "."
 
 [functions]
-  directory = "netlify/functions"
+directory = "netlify/functions"
+
+[build.environment]
+NODE_VERSION = "20"
