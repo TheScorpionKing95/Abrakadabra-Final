@@ -1,0 +1,1841 @@
+[
+  {
+    "q": "Which is true about remodeling of the maxilla around anterior teeth from incisors to canines?",
+    "c": [
+      "Buccal deposition; palatal resorption",
+      "Buccal resorption; palatal resorption",
+      "Buccal deposition; palatal deposition",
+      "Buccal resorption; palatal deposition"
+    ],
+    "a": 3,
+    "why": "The lecture/TQ key confirms anterior maxillary remodeling: buccal bone resorption and palatal bone deposition.",
+    "src": "Maxilla growth lecture",
+    "id": 1,
+    "verified": "Verified with caution",
+    "auditSource": "Lesson 05 Maxilla lecture — remodeling/growth mechanism slides"
+  },
+  {
+    "q": "What happens to arch length from 9 to 20 years in untreated normal occlusion?",
+    "c": [
+      "Increases then decreases",
+      "Decreases",
+      "Decreases then increases",
+      "Increases"
+    ],
+    "a": 1,
+    "why": "The dental arch lecture notes show arch length decreases from 9 to 20 years.",
+    "src": "Dentition lecture",
+    "id": 2,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 07 Dentitions lecture — dental follicle, eruption sequence, arch changes"
+  },
+  {
+    "q": "Which oral structures can influence sound formation?",
+    "c": [
+      "Tongue size and position only",
+      "Tongue size/position and soft palate",
+      "Posterior open bite only",
+      "Soft palate only",
+      "Tongue size/position, soft palate, and posterior open bite"
+    ],
+    "a": 4,
+    "why": "Speech can be affected by tongue size/position, soft palate function, and occlusal problems like open bite.",
+    "src": "Soft tissue / pediatric development",
+    "id": 3,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 08 Soft Tissue/Smile + Lesson 10 Child Development"
+  },
+  {
+    "q": "Which tissue does NOT have an adolescent growth spurt?",
+    "c": [
+      "Nasal soft tissue",
+      "Nasal bone, cartilage, and soft tissue",
+      "Nasal cartilage and soft tissue",
+      "Nasal bone",
+      "Nasal bone and soft tissue",
+      "Nasal bone and cartilage",
+      "Nasal cartilage"
+    ],
+    "a": 3,
+    "why": "The nose lecture notes mark nasal bone as complete around age 10, so it does not show the adolescent spurt.",
+    "src": "Soft tissue/nose lecture",
+    "id": 4,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 08 Soft Tissue/Smile — nose growth slides"
+  },
+  {
+    "q": "Where can endochondral bone formation be found?",
+    "c": [
+      "Temporal bone petrous portion",
+      "Mandibular corpus",
+      "Maxilla",
+      "Parietal bone",
+      "Occipital bone"
+    ],
+    "a": 4,
+    "why": "Cranial base/occipital bone is endochondral. Maxilla, parietal, and mandibular corpus are intramembranous.",
+    "src": "Cranial vault/base lecture",
+    "id": 5,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 04 Cranial Vault/Cranial Base — bone formation, theories, hypothesis/law slides"
+  },
+  {
+    "q": "Which craniofacial dimension finishes growth first?",
+    "c": [
+      "Vertical",
+      "All finish at the same time",
+      "Transverse",
+      "Sagittal"
+    ],
+    "a": 2,
+    "why": "3D sequence: transverse finishes first, sagittal around puberty, vertical after puberty.",
+    "src": "Growth sequence lecture",
+    "id": 6,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 04/05 craniofacial growth sequence slides"
+  },
+  {
+    "q": "In females, when do maxilla and mandible reach growth spurts by SMI?",
+    "c": [
+      "Maxilla SMI5; Mandible SMI6",
+      "Maxilla SMI5; Mandible SMI5",
+      "Maxilla SMI7; Mandible SMI7",
+      "Maxilla SMI6; Mandible SMI7",
+      "Maxilla SMI6; Mandible SMI6",
+      "Maxilla SMI4; Mandible SMI4"
+    ],
+    "a": 3,
+    "why": "The reviewed growth-spurt chart gives females: maxilla around SMI 6 and mandible around SMI 7.",
+    "src": "Growth status lecture",
+    "id": 7,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 09 Assessment of Growth Status — SMI/CVMI timing slides"
+  },
+  {
+    "q": "A 3–4-year-old has mastered all language milestones EXCEPT:",
+    "c": [
+      "Uses many sentences with 4+ words",
+      "Directs attention to objects by naming them",
+      "All choices",
+      "Understood by people outside family",
+      "Uses the same grammar as the rest of the family"
+    ],
+    "a": 4,
+    "why": "Same grammar as family is later; preschool speech improves but is not fully adult-like.",
+    "src": "Children development lecture",
+    "id": 8,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 10 Children’s Growth & Development slides"
+  },
+  {
+    "q": "When does mandibular intercanine distance reach maximum in females?",
+    "c": [
+      "16 years old",
+      "13 years old",
+      "10 years old",
+      "8 years old"
+    ],
+    "a": 1,
+    "why": "The TQ/lecture chart repeatedly gives girls around 13 years.",
+    "src": "Dentition arch width lecture",
+    "id": 9,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 07 Dentitions — dental arch width/length changes"
+  },
+  {
+    "q": "Post-pubertal crowding is most related to which growth?",
+    "c": [
+      "Transverse growth",
+      "Sagittal growth",
+      "All choices",
+      "Vertical growth"
+    ],
+    "a": 3,
+    "why": "The repeated TQ key marks vertical growth as the main related factor.",
+    "src": "Dentition/growth lecture",
+    "id": 10,
+    "verified": "Verified with caution",
+    "auditSource": "Lesson 07 Dentitions + craniofacial growth slides"
+  },
+  {
+    "q": "Which does NOT influence physical growth?",
+    "c": [
+      "Nutrition",
+      "Social class",
+      "Genetics",
+      "Physical growth is influenced by all other choices",
+      "Ethnicity and culture"
+    ],
+    "a": 3,
+    "why": "Lecture lists growth as influenced by heredity, nutrition, social/environmental factors, ethnicity/culture.",
+    "src": "Children development lecture",
+    "id": 11,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 10 Children’s Growth & Development slides"
+  },
+  {
+    "q": "Why avoid tooth-banded rapid palatal expansion in a young child with constricted maxillary arch?",
+    "c": [
+      "It only expands teeth laterally",
+      "Too painful",
+      "It expands mid-palatal suture",
+      "May cause a nasal hump",
+      "Patient compliance"
+    ],
+    "a": 3,
+    "why": "The repeated lecture/TQ warning is nasal hump risk after rapid expansion in young patients.",
+    "src": "Maxilla/palatal suture lecture",
+    "id": 12,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 05 Maxilla — palatal suture/maxillary expansion notes"
+  },
+  {
+    "q": "A child whose self-awareness intensifies with a push for independence is probably:",
+    "c": [
+      "An adolescent patient",
+      "A 6-year-old",
+      "A 4–5-year-old",
+      "A 6–7-year-old"
+    ],
+    "a": 0,
+    "why": "Adolescence is characterized by increased self-awareness and independence.",
+    "src": "Children development lecture",
+    "id": 13,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 10 Children’s Growth & Development slides"
+  },
+  {
+    "q": "Which best defines temperament?",
+    "c": [
+      "Inborn trait plus unchangeable behavior",
+      "Inborn biologically based trait determining learning only",
+      "A trait instrumental in how a child reacts to people and situations",
+      "Inborn trait only",
+      "A behavior pattern that cannot be influenced"
+    ],
+    "a": 2,
+    "why": "Temperament is biologically based and affects how the child reacts to people/situations; it is not totally unchangeable.",
+    "src": "Children development lecture",
+    "id": 14,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 10 Children’s Growth & Development slides"
+  },
+  {
+    "q": "Which dimension has an adolescent growth spurt?",
+    "c": [
+      "Vertical and transverse",
+      "Sagittal, transverse, vertical",
+      "Vertical only",
+      "Sagittal only",
+      "Transverse only",
+      "Sagittal and transverse",
+      "Sagittal and vertical"
+    ],
+    "a": 2,
+    "why": "The lecture/TQ emphasizes vertical dimension has the adolescent spurt and finishes last.",
+    "src": "Craniofacial growth lecture",
+    "id": 15,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 04/05/06 sequence of craniofacial growth slides"
+  },
+  {
+    "q": "Mandibular anterior remodeling from incisors to canines is:",
+    "c": [
+      "Buccal deposition; lingual resorption",
+      "Buccal deposition; lingual deposition",
+      "Buccal resorption; lingual deposition",
+      "Buccal resorption; lingual resorption"
+    ],
+    "a": 2,
+    "why": "Mandibular symphysis/anterior teeth: buccal resorption and lingual deposition.",
+    "src": "Mandible lecture",
+    "id": 16,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 06 Mandible — condyle, corpus, symphysis, ramus remodeling"
+  },
+  {
+    "q": "Average SNA from 6 to 16/18 years:",
+    "c": [
+      "Stays the same",
+      "Increases",
+      "Decreases"
+    ],
+    "a": 1,
+    "why": "Growth effects note: SNA increases slightly with age.",
+    "src": "Cephalometric growth effects",
+    "id": 17,
+    "verified": "Lecture-verified",
+    "auditSource": "Lecture screenshots + growth effects slides — SNA/SNB/ANB age changes"
+  },
+  {
+    "q": "Average SNB from 6 to 16/18 years:",
+    "c": [
+      "Decreases",
+      "Stays the same",
+      "Increases"
+    ],
+    "a": 2,
+    "why": "Growth effects note: SNB increases as the mandible grows forward.",
+    "src": "Cephalometric growth effects",
+    "id": 18,
+    "verified": "Lecture-verified",
+    "auditSource": "Lecture screenshots + growth effects slides — SNA/SNB/ANB age changes"
+  },
+  {
+    "q": "Average ANB from 6 to 16 years:",
+    "c": [
+      "Increases",
+      "Stays the same",
+      "Decreases"
+    ],
+    "a": 2,
+    "why": "Because SNB increases more, ANB tends to decrease.",
+    "src": "Cephalometric growth effects",
+    "id": 19,
+    "verified": "Lecture-verified",
+    "auditSource": "Lecture screenshots + growth effects slides — SNA/SNB/ANB age changes"
+  },
+  {
+    "q": "Average condylar growth direction in sagittal view:",
+    "c": [
+      "Backward upward",
+      "Forward upward",
+      "Straight upward"
+    ],
+    "a": 1,
+    "why": "The mandible lecture labels average condylar growth direction as forward and upward.",
+    "src": "Mandible lecture",
+    "id": 20,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 06 Mandible — condyle, corpus, symphysis, ramus remodeling"
+  },
+  {
+    "q": "Hearing, smell, and taste are functional before birth. This sensory statement is:",
+    "c": [
+      "Both statements false",
+      "First false second true",
+      "Both true",
+      "First true second false"
+    ],
+    "a": 3,
+    "why": "Sensory capacities are physical development, but not all listed senses are equally functional before birth as phrased.",
+    "src": "Children physical development lecture",
+    "id": 21,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 10 Physical Development slides"
+  },
+  {
+    "q": "Skeletal facial convexity from 6 months to 18 years:",
+    "c": [
+      "Stays constant",
+      "Decreases then increases",
+      "Decreases",
+      "Increases",
+      "Increases then decreases"
+    ],
+    "a": 2,
+    "why": "Skeletal convexity decreases toward a straighter profile.",
+    "src": "Soft tissue lecture",
+    "id": 22,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 08 Soft Tissue/Smile — facial convexity/lip thickness/smile changes"
+  },
+  {
+    "q": "Embryologic stage disturbed in cleft lip/palate:",
+    "c": [
+      "Weeks 2–4",
+      "Weeks 0–2",
+      "Weeks 8–10",
+      "Weeks 6–8",
+      "Weeks 4–6"
+    ],
+    "a": 4,
+    "why": "Primary/secondary palate and facial fusion issues occur around weeks 4–6 in these notes.",
+    "src": "Embryology lecture",
+    "id": 23,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 02 Craniofacial Embryology — facial cleft/fusion timing/processes"
+  },
+  {
+    "q": "Language development is sequential and accelerates rapidly during the second year of life.",
+    "c": [
+      "First false second true",
+      "Both true",
+      "First true second false",
+      "Both false"
+    ],
+    "a": 1,
+    "why": "Both statements match pediatric language development notes.",
+    "src": "Children development lecture",
+    "id": 24,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 10 Children’s Growth & Development slides"
+  },
+  {
+    "q": "Piaget cognitive development is based on child age; his theory states children move through age-related stages.",
+    "c": [
+      "First true second false",
+      "Both true",
+      "First false second true",
+      "Both false"
+    ],
+    "a": 1,
+    "why": "Piaget proposed staged cognitive development tied broadly to age ranges.",
+    "src": "Children cognitive development",
+    "id": 25,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 10 Cognitive Development/Piaget slides"
+  },
+  {
+    "q": "Which fontanelle closes last?",
+    "c": [
+      "Sphenoid",
+      "Lateral",
+      "Anterior",
+      "Mastoid",
+      "Posterior"
+    ],
+    "a": 2,
+    "why": "The fontanelle closure slide lists anterior as the last to close.",
+    "src": "Cranial vault lecture",
+    "id": 26,
+    "verified": "Lecture-verified",
+    "auditSource": "Cranial vault lecture"
+  },
+  {
+    "q": "Brain development is influenced by heredity but not environment.",
+    "c": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "why": "Lecture emphasizes both nature and nurture influence brain development.",
+    "src": "Children development lecture",
+    "id": 27,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 10 Children’s Growth & Development slides"
+  },
+  {
+    "q": "General stature growth spurt during adolescence occurs around:",
+    "c": [
+      "CS1 to CS2",
+      "CS3 to CS4",
+      "CS4 to CS5",
+      "CS2 to CS3",
+      "CS5 to CS6"
+    ],
+    "a": 1,
+    "why": "Cervical vertebral stage notes: growth spurt between CS3 and CS4.",
+    "src": "Growth status lecture",
+    "id": 28,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 09 Assessment of Growth Status — SMI/CVMI timing slides"
+  },
+  {
+    "q": "Biggest somatic growth spurt in boys occurs:",
+    "c": [
+      "Before 1 year old",
+      "10–12 years",
+      "6–10 years",
+      "12–14 years",
+      "2–6 years"
+    ],
+    "a": 0,
+    "why": "Overall somatic growth is fastest during the first year of life, even though adolescent spurt is later.",
+    "src": "Somatic growth lecture",
+    "id": 29,
+    "verified": "Lecture-verified",
+    "auditSource": "Somatic growth lecture"
+  },
+  {
+    "q": "Best stable maxillary superimposition landmark:",
+    "c": [
+      "Anterior contour of zygomatic process",
+      "Nasal floor only",
+      "Molar cusp",
+      "Incisal edge"
+    ],
+    "a": 0,
+    "why": "Maxillary superimposition slide: only stable structure is anterior contour of the zygomatic process.",
+    "src": "Assessment of growth status lecture",
+    "id": 30,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 09 Assessment of Growth Status — superimposition landmarks"
+  },
+  {
+    "q": "Processes that fail to fuse in cleft lip:",
+    "c": [
+      "Medial and lateral nasal processes",
+      "Right and left mandibular processes",
+      "Maxillary and mandibular processes",
+      "Right and left maxillary processes",
+      "Maxillary and medial nasal processes"
+    ],
+    "a": 4,
+    "why": "Cleft lip involves failure of maxillary process fusion with medial nasal process.",
+    "src": "Embryology lecture",
+    "id": 31,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 02 Craniofacial Embryology — facial cleft/fusion timing/processes"
+  },
+  {
+    "q": "Communicating with a 4-year-old in dental office—EXCEPT:",
+    "c": [
+      "Use concrete familiar words",
+      "Does not understand time concept",
+      "75% communication is non-verbal",
+      "Attention span approx. 5–12 minutes",
+      "Avoid explaining consequences to actions"
+    ],
+    "a": 4,
+    "why": "For preschoolers, consequences can be explained simply; avoiding them is the exception.",
+    "src": "Children development lecture",
+    "id": 32,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 10 Children’s Growth & Development slides"
+  },
+  {
+    "q": "Lip thickness from childhood to adulthood:",
+    "c": [
+      "Increases then decreases",
+      "Decreases then increases",
+      "Decreases",
+      "Increases",
+      "Stays constant"
+    ],
+    "a": 0,
+    "why": "Soft tissue notes: lip thickness increases, then decreases after adolescent growth spurt.",
+    "src": "Soft tissue lecture",
+    "id": 33,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 08 Soft Tissue/Smile — facial convexity/lip thickness/smile changes"
+  },
+  {
+    "q": "Craniofacial soft tissue with greatest thickness increase from 1 to 18:",
+    "c": [
+      "Frontal area",
+      "Base of upper lip",
+      "Chin"
+    ],
+    "a": 1,
+    "why": "Repeated TQ key and soft tissue slide identify base of upper lip.",
+    "src": "Soft tissue lecture",
+    "id": 34,
+    "verified": "Verified with caution",
+    "auditSource": "Lesson 08 Soft Tissue/Smile — facial convexity/lip thickness/smile changes"
+  },
+  {
+    "q": "Sphenoid-ethmoid synchondrosis closes at:",
+    "c": [
+      "At birth",
+      "3 years",
+      "6 years",
+      "12 years",
+      "18 years"
+    ],
+    "a": 2,
+    "why": "Synchondrosis closure sequence slide: spheno-ethmoid closes around 6 years.",
+    "src": "Cranial base lecture",
+    "id": 35,
+    "verified": "Lecture-verified",
+    "auditSource": "Cranial base lecture"
+  },
+  {
+    "q": "Maxilla and mandible originate from which branchial arch?",
+    "c": [
+      "First branchial arch",
+      "Second",
+      "Third",
+      "Fourth"
+    ],
+    "a": 0,
+    "why": "Craniofacial embryology: maxilla and mandible derive from first branchial arch prominences.",
+    "src": "Embryology lecture",
+    "id": 36,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 02 Craniofacial Embryology — facial cleft/fusion timing/processes"
+  },
+  {
+    "q": "Growth deficiency of midline facial structures such as fetal alcohol syndrome points to disturbance at:",
+    "c": [
+      "Day 17 postfertilization",
+      "Days 18–23",
+      "Days 19–28",
+      "Days 28–38",
+      "Days 42–55"
+    ],
+    "a": 0,
+    "why": "Stage 1 germ layer formation/initial organization around day 17 is associated with FAS in the lecture table.",
+    "src": "Embryology lecture",
+    "id": 37,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 02 Craniofacial Embryology — facial cleft/fusion timing/processes"
+  },
+  {
+    "q": "Which does NOT originate from neural crest cells?",
+    "c": [
+      "Temporal bone",
+      "Parietal bone",
+      "Occipital bone",
+      "Sphenoid bone",
+      "Maxilla",
+      "Mandible"
+    ],
+    "a": 2,
+    "why": "Lecture shows occipital/parietal/basisphenoid behind coronal suture as mesoderm-derived, depending wording; among single best choices, occipital is not neural crest.",
+    "src": "Embryology/origins lecture",
+    "id": 38,
+    "verified": "Verified with caution",
+    "auditSource": "Embryology/origins lecture"
+  },
+  {
+    "q": "Which cells in teeth originate from neural crest cells?",
+    "c": [
+      "Ameloblasts",
+      "Odontoblasts",
+      "Both ameloblasts and odontoblasts",
+      "Neither"
+    ],
+    "a": 1,
+    "why": "Odontoblasts derive from ectomesenchymal neural crest; ameloblasts derive from oral epithelium.",
+    "src": "Embryology lecture",
+    "id": 39,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 02 Craniofacial Embryology — facial cleft/fusion timing/processes"
+  },
+  {
+    "q": "How did Angle name a dentition with no malocclusion?",
+    "c": [
+      "Ideal occlusion",
+      "Class I occlusion",
+      "Normal occlusion",
+      "Good occlusion"
+    ],
+    "a": 2,
+    "why": "Angle classification slide uses normal occlusion for no malocclusion.",
+    "src": "Introduction lecture",
+    "id": 40,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 01 Introduction — normal occlusion/malocclusion prevalence/classification"
+  },
+  {
+    "q": "Angle classification is primarily based on which plane?",
+    "c": [
+      "Transverse",
+      "Vertical",
+      "Sagittal",
+      "Coronal"
+    ],
+    "a": 2,
+    "why": "Molar relationship/Class II/Class III are sagittal AP classifications.",
+    "src": "Introduction/etiology lecture",
+    "id": 41,
+    "verified": "Lecture-verified",
+    "auditSource": "Introduction/etiology lecture"
+  },
+  {
+    "q": "Where is the line of occlusion on maxillary anterior teeth?",
+    "c": [
+      "Cingulum",
+      "Incisal edge",
+      "Buccal cusp",
+      "Distobuccal cusp of mandibular molar"
+    ],
+    "a": 0,
+    "why": "Quizlet/TQ note: maxillary anterior line of occlusion is at the cingulum.",
+    "src": "Occlusion lecture",
+    "id": 42,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 01 Introduction/Angle classification slides"
+  },
+  {
+    "q": "Prevalence of normal occlusion in the United States:",
+    "c": [
+      "10%",
+      "20%",
+      "30%",
+      "60%"
+    ],
+    "a": 2,
+    "why": "The lecture/TQ summary repeatedly states about 30%.",
+    "src": "Introduction lecture",
+    "id": 43,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 01 Introduction — normal occlusion/malocclusion prevalence/classification"
+  },
+  {
+    "q": "Malocclusion usually results from:",
+    "c": [
+      "One pathologic process",
+      "Complex interaction of factors",
+      "Only heredity",
+      "Only environment"
+    ],
+    "a": 1,
+    "why": "Etiology lecture states malocclusion usually reflects complex interactions influencing development.",
+    "src": "Etiology lecture",
+    "id": 44,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 03 Etiology of Malocclusion — etiologic factors/teratogens/synostosis"
+  },
+  {
+    "q": "Etiologic factors for malocclusion include:",
+    "c": [
+      "Specific causes only",
+      "Hereditary only",
+      "Environmental only",
+      "Specific causes, hereditary, and environmental influences"
+    ],
+    "a": 3,
+    "why": "Etiology slide lists all three categories.",
+    "src": "Etiology lecture",
+    "id": 45,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 03 Etiology of Malocclusion — etiologic factors/teratogens/synostosis"
+  },
+  {
+    "q": "Teratogens at low dosage tend to cause:",
+    "c": [
+      "Specific defects",
+      "Always death",
+      "No effect",
+      "Only dental anomalies"
+    ],
+    "a": 0,
+    "why": "Etiology slide: low dosage teratogens may cause specific defects; high dosage may be lethal.",
+    "src": "Etiology lecture",
+    "id": 46,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 03 Etiology of Malocclusion — etiologic factors/teratogens/synostosis"
+  },
+  {
+    "q": "Teratogens at high dosage tend to be:",
+    "c": [
+      "Specific defect only",
+      "Lethal",
+      "Beneficial",
+      "Only skeletal"
+    ],
+    "a": 1,
+    "why": "Lecture explicitly contrasts low-dose defects with high-dose lethal effects.",
+    "src": "Etiology lecture",
+    "id": 47,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 03 Etiology of Malocclusion — etiologic factors/teratogens/synostosis"
+  },
+  {
+    "q": "Synostosis means:",
+    "c": [
+      "Delayed tooth eruption",
+      "Early closure of sutures",
+      "Excess salivation",
+      "Late palate fusion"
+    ],
+    "a": 1,
+    "why": "Etiology lecture defines synostosis as early closure of sutures causing distortions.",
+    "src": "Etiology lecture",
+    "id": 48,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 03 Etiology of Malocclusion — etiologic factors/teratogens/synostosis"
+  },
+  {
+    "q": "Last to develop among cranial vault, cranial base, maxilla, mandible:",
+    "c": [
+      "Cranial vault",
+      "Cranial base",
+      "Maxilla",
+      "Mandible"
+    ],
+    "a": 3,
+    "why": "TQ and growth pattern notes mark mandible as last.",
+    "src": "Growth lecture",
+    "id": 49,
+    "verified": "Lecture-verified",
+    "auditSource": "Lessons 04–09 craniofacial growth sequence and Scammon growth curve material"
+  },
+  {
+    "q": "Which tissue reaches maximal maturity first?",
+    "c": [
+      "Neural",
+      "General somatic",
+      "Genital",
+      "Lymphoid"
+    ],
+    "a": 0,
+    "why": "Scammon curves: neural tissues mature earliest.",
+    "src": "Growth curves lecture",
+    "id": 50,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 04/09 growth curves and maturation timing slides"
+  },
+  {
+    "q": "On Scammon growth curve, maxilla most resembles:",
+    "c": [
+      "Neural curve",
+      "General curve",
+      "Genital curve",
+      "Lymphoid curve"
+    ],
+    "a": 0,
+    "why": "TQ note: maxillary growth line most closely resembles neural curve.",
+    "src": "Growth curves lecture",
+    "id": 51,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 04/09 growth curves and maturation timing slides"
+  },
+  {
+    "q": "On Scammon growth curve, mandible most resembles:",
+    "c": [
+      "Neural curve",
+      "General curve",
+      "Lymphoid curve",
+      "Genital curve"
+    ],
+    "a": 1,
+    "why": "Mandibular curve follows general/somatic growth more than maxilla.",
+    "src": "Growth curves lecture",
+    "id": 52,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 04/09 growth curves and maturation timing slides"
+  },
+  {
+    "q": "Maximum disparity of growth occurs during:",
+    "c": [
+      "Infancy",
+      "Early childhood",
+      "Late childhood",
+      "Adulthood"
+    ],
+    "a": 2,
+    "why": "Repeated Quizlet/TQ key gives late childhood.",
+    "src": "Growth curves lecture",
+    "id": 53,
+    "verified": "Verified with caution",
+    "auditSource": "Lesson 04/09 growth curves and maturation timing slides"
+  },
+  {
+    "q": "Best time to treat maxillary prognathism/overgrowth:",
+    "c": [
+      "Before puberty",
+      "After puberty",
+      "Only adulthood",
+      "Never"
+    ],
+    "a": 0,
+    "why": "Growth modification is better before pubertal growth completion.",
+    "src": "Growth/treatment timing lecture",
+    "id": 54,
+    "verified": "Lecture-verified",
+    "auditSource": "Growth/treatment timing lecture"
+  },
+  {
+    "q": "A posterior crossbite in mixed dentition with functional shift needs:",
+    "c": [
+      "Immediate treatment",
+      "Wait until permanent teeth",
+      "No treatment ever",
+      "Extraction"
+    ],
+    "a": 0,
+    "why": "Functional shift can affect growth/adaptation, so immediate correction is recommended.",
+    "src": "Clinical growth lecture",
+    "id": 55,
+    "verified": "Lecture-verified",
+    "auditSource": "Lecture clinical application screenshots + maxilla/soft tissue growth slides"
+  },
+  {
+    "q": "Posterior crossbite in mixed dentition with no shift/no abnormal wear:",
+    "c": [
+      "Immediate treatment",
+      "Wait until permanent teeth come in",
+      "Surgery now",
+      "Adenoid treatment"
+    ],
+    "a": 1,
+    "why": "TQ key says wait if no functional shift or abnormal wearing.",
+    "src": "Clinical growth lecture",
+    "id": 56,
+    "verified": "Verified with caution",
+    "auditSource": "Lecture clinical application screenshots + maxilla/soft tissue growth slides"
+  },
+  {
+    "q": "Adenoid 1.5–2x adult size with no airway obstruction:",
+    "c": [
+      "Remove immediately",
+      "No treatment needed",
+      "Rapid expansion",
+      "Mandibular surgery"
+    ],
+    "a": 1,
+    "why": "Repeated clinical TQ: enlarged adenoid without obstruction does not need treatment.",
+    "src": "Clinical growth lecture",
+    "id": 57,
+    "verified": "Lecture-verified",
+    "auditSource": "Lecture clinical application screenshots + maxilla/soft tissue growth slides"
+  },
+  {
+    "q": "What is possibly the major growth determinant of mandible?",
+    "c": [
+      "Bone only",
+      "Cartilage only",
+      "Soft tissue matrix",
+      "Teeth only"
+    ],
+    "a": 2,
+    "why": "Growth determinant in functional matrix discussion points to soft tissue matrix.",
+    "src": "Mandible/growth determinants lecture",
+    "id": 58,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 06 Mandible + Lesson 04 growth determinants/function matrix slides"
+  },
+  {
+    "q": "Mandible formation is:",
+    "c": [
+      "Only endochondral",
+      "Only intramembranous",
+      "Intramembranous except condyle endochondral",
+      "Direct replacement of Meckel cartilage"
+    ],
+    "a": 2,
+    "why": "Mandibular corpus is intramembranous; condylar head is endochondral.",
+    "src": "Mandible lecture",
+    "id": 59,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 06 Mandible — condyle, corpus, symphysis, ramus remodeling"
+  },
+  {
+    "q": "Mandible develops directly from Meckel cartilage.",
+    "c": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "why": "Lecture states mandible does not develop directly from Meckel’s cartilage.",
+    "src": "Mandible lecture",
+    "id": 60,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 06 Mandible — condyle, corpus, symphysis, ramus remodeling"
+  },
+  {
+    "q": "Mandibular condyle is a growth center?",
+    "c": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "why": "TQ key flags mandibular condyle as NOT a primary growth center in this course framing.",
+    "src": "Mandible/growth theory lecture",
+    "id": 61,
+    "verified": "Verified with caution",
+    "auditSource": "Lesson 06 Mandible — condyle and growth theory material"
+  },
+  {
+    "q": "Mental protuberance remodeling pattern:",
+    "c": [
+      "Buccal resorption; lingual deposition",
+      "Buccal deposition; lingual deposition",
+      "Buccal deposition; lingual resorption",
+      "Both resorption"
+    ],
+    "a": 1,
+    "why": "Chin/mental protuberance grows by apposition/deposition on both sides.",
+    "src": "Mandible lecture",
+    "id": 62,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 06 Mandible — condyle, corpus, symphysis, ramus remodeling"
+  },
+  {
+    "q": "Anterior border of ascending ramus remodeling:",
+    "c": [
+      "Buccal resorption; lingual resorption",
+      "Buccal deposition; lingual deposition",
+      "Buccal deposition; lingual resorption",
+      "Buccal resorption; lingual deposition"
+    ],
+    "a": 0,
+    "why": "TQ/mandible note gives resorption on both buccal and lingual at anterior ascending ramus.",
+    "src": "Mandible lecture",
+    "id": 63,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 06 Mandible — condyle, corpus, symphysis, ramus remodeling"
+  },
+  {
+    "q": "A metal implant placed on anterior border of ascending ramus at age 3 will be found at age 25:",
+    "c": [
+      "Same anterior border",
+      "Posterior ramus",
+      "Nowhere on ascending ramus",
+      "Condylar head"
+    ],
+    "a": 2,
+    "why": "Ramus remodeling resorbs anterior border, so marker disappears from that surface.",
+    "src": "Mandible implant/remodeling lecture",
+    "id": 64,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 06 Mandible — implant/remodeling examples"
+  },
+  {
+    "q": "Average growth pattern/displacement of the mandible is:",
+    "c": [
+      "Downward and backward",
+      "Upward and forward",
+      "Straight up",
+      "Only forward"
+    ],
+    "a": 0,
+    "why": "Mandible is translated downward and forward clinically but remodeling/growth pattern image often shows upward/backward at ramus; the repeated TQ wording for growth pattern image is up/back. Read the image carefully.",
+    "src": "Mandible growth lecture",
+    "id": 65,
+    "verified": "Verified with caution",
+    "auditSource": "Lesson 06 Mandible — growth pattern/displacement diagrams"
+  },
+  {
+    "q": "Average condyle growth direction is best simplified as:",
+    "c": [
+      "Forward",
+      "Backward",
+      "Downward",
+      "No growth"
+    ],
+    "a": 0,
+    "why": "TQ key gives forward/forward-upward for condylar growth direction.",
+    "src": "Mandible lecture",
+    "id": 66,
+    "verified": "Verified with caution",
+    "auditSource": "Lesson 06 Mandible — condyle, corpus, symphysis, ramus remodeling"
+  },
+  {
+    "q": "Maxillary skeletal growth is:",
+    "c": [
+      "Growth and displacement in opposite directions",
+      "Growth and displacement in same direction",
+      "No displacement",
+      "Only tooth eruption"
+    ],
+    "a": 0,
+    "why": "Maxilla grows posterior/superior at sutures while displaced downward/forward.",
+    "src": "Maxilla lecture",
+    "id": 67,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 05 Maxilla — sutural growth, displacement, palatal expansion"
+  },
+  {
+    "q": "Palatine growth is:",
+    "c": [
+      "Growth and displacement opposite",
+      "Growth and displacement same direction",
+      "No growth",
+      "Only endochondral"
+    ],
+    "a": 1,
+    "why": "TQ key: palatine growth and displacement in same direction.",
+    "src": "Maxilla/palatine lecture",
+    "id": 68,
+    "verified": "Verified with caution",
+    "auditSource": "Lesson 05 Maxilla/Palatine growth slides"
+  },
+  {
+    "q": "Major resistance to palatal expansion comes mainly from:",
+    "c": [
+      "Only mid-palatal suture",
+      "All circummaxillary sutures",
+      "Only teeth",
+      "Tongue pressure"
+    ],
+    "a": 1,
+    "why": "Lecture states major resistance is from circummaxillary sutures, not just mid-palatal suture.",
+    "src": "Maxilla lecture",
+    "id": 69,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 05 Maxilla — sutural growth, displacement, palatal expansion"
+  },
+  {
+    "q": "Mid-palatal suture closure/interlocking statement:",
+    "c": [
+      "Completely fused at 15 always",
+      "Continues growing to ~16 girls/18 boys and rarely markedly closes until third decade",
+      "Fuses at birth",
+      "Never interlocks"
+    ],
+    "a": 1,
+    "why": "Lecture rejects the simple “fused at 15” belief and describes later closure/interlocking.",
+    "src": "Maxilla lecture",
+    "id": 70,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 05 Maxilla — sutural growth, displacement, palatal expansion"
+  },
+  {
+    "q": "Facial soft tissue growth perfectly parallels hard tissue growth.",
+    "c": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "why": "Soft tissue lecture explicitly says it does not perfectly parallel underlying hard tissue.",
+    "src": "Soft tissue lecture",
+    "id": 71,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 08 Soft Tissue/Smile — facial convexity/lip thickness/smile changes"
+  },
+  {
+    "q": "Soft tissue convexity without the nose from 6 to 18 years:",
+    "c": [
+      "Stays fairly constant",
+      "Increases greatly",
+      "Decreases only",
+      "Decreases then increases greatly"
+    ],
+    "a": 0,
+    "why": "When the nose is not considered, soft tissue convexity is quite stable after early changes.",
+    "src": "Soft tissue lecture",
+    "id": 72,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 08 Soft Tissue/Smile — facial convexity/lip thickness/smile changes"
+  },
+  {
+    "q": "Soft tissue convexity including the nose from 6 months to 18 years:",
+    "c": [
+      "Decrease then increase",
+      "Constant",
+      "Only decrease",
+      "Only increase"
+    ],
+    "a": 0,
+    "why": "Including nasal growth reverses the apparent soft tissue convexity trend.",
+    "src": "Soft tissue lecture",
+    "id": 73,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 08 Soft Tissue/Smile — facial convexity/lip thickness/smile changes"
+  },
+  {
+    "q": "Nasal bone completes growth around:",
+    "c": [
+      "10 years",
+      "12 years",
+      "15 years",
+      "18 years",
+      "25 years"
+    ],
+    "a": 0,
+    "why": "Nose growth slide/TQ states nasal bone complete around age 10.",
+    "src": "Soft tissue/nose lecture",
+    "id": 74,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 08 Soft Tissue/Smile — nose growth slides"
+  },
+  {
+    "q": "Age-related smile changes:",
+    "c": [
+      "Transverse wider; vertical longer",
+      "Transverse wider; vertical shorter/narrower",
+      "Transverse narrower; vertical longer",
+      "No change"
+    ],
+    "a": 1,
+    "why": "Dynamic smile analysis: smile becomes wider transversely and narrower vertically with age.",
+    "src": "Soft tissue smile lecture",
+    "id": 75,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 08 Dynamic Smile Analysis slides"
+  },
+  {
+    "q": "Lip separation from youth to adulthood:",
+    "c": [
+      "Increases then decreases",
+      "Decreases only",
+      "Decreases then increases",
+      "Stays constant"
+    ],
+    "a": 0,
+    "why": "Soft tissue notes: incisor display/lip separation increases then decreases.",
+    "src": "Soft tissue lecture",
+    "id": 76,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 08 Soft Tissue/Smile — facial convexity/lip thickness/smile changes"
+  },
+  {
+    "q": "Incisor display during late childhood and puberty:",
+    "c": [
+      "Increases then decreases",
+      "Decreases then increases",
+      "Stays same",
+      "Only decreases"
+    ],
+    "a": 0,
+    "why": "Soft tissue smile notes show incisor display rises then drops with maturation.",
+    "src": "Soft tissue lecture",
+    "id": 77,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 08 Soft Tissue/Smile — facial convexity/lip thickness/smile changes"
+  },
+  {
+    "q": "Dental follicle is essential for tooth eruption.",
+    "c": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "why": "Dentition lecture shows tooth germ without sac does not erupt; sac/follicle is essential.",
+    "src": "Dentition lecture",
+    "id": 78,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 07 Dentitions lecture — dental follicle, eruption sequence, arch changes"
+  },
+  {
+    "q": "Coronal part of dental follicle regulates:",
+    "c": [
+      "Osteoclastogenesis and bone resorption",
+      "Osteogenesis only",
+      "Enamel formation",
+      "Speech"
+    ],
+    "a": 0,
+    "why": "Eruption mechanism slide: coronal half regulates osteoclastogenesis/bone resorption.",
+    "src": "Dentition lecture",
+    "id": 79,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 07 Dentitions lecture — dental follicle, eruption sequence, arch changes"
+  },
+  {
+    "q": "Basal half of dental follicle regulates:",
+    "c": [
+      "Bone resorption",
+      "Osteogenesis needed for eruption",
+      "Tongue growth",
+      "Root resorption only"
+    ],
+    "a": 1,
+    "why": "Eruption mechanism slide: basal half regulates osteogenesis needed for eruption.",
+    "src": "Dentition lecture",
+    "id": 80,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 07 Dentitions lecture — dental follicle, eruption sequence, arch changes"
+  },
+  {
+    "q": "Primary dentition eruption sequence:",
+    "c": [
+      "A-B-D-C-E",
+      "A-B-C-D-E",
+      "D-A-B-C-E",
+      "E-D-C-B-A"
+    ],
+    "a": 0,
+    "why": "Primary eruption sequence slide lists A→B→D→C→E.",
+    "src": "Dentition lecture",
+    "id": 81,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 07 Dentitions lecture — dental follicle, eruption sequence, arch changes"
+  },
+  {
+    "q": "Permanent maxillary eruption sequence:",
+    "c": [
+      "6-1-2-4-5-3-7",
+      "6-1-2-3-4-5-7",
+      "1-2-3-4-5-6-7",
+      "6-2-1-4-3-5-7"
+    ],
+    "a": 0,
+    "why": "Dentition lecture gives maxillary 6→1→2→4→5→3→7.",
+    "src": "Dentition lecture",
+    "id": 82,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 07 Dentitions lecture — dental follicle, eruption sequence, arch changes"
+  },
+  {
+    "q": "Permanent mandibular eruption sequence:",
+    "c": [
+      "6-1-2-4-5-3-7",
+      "6-1-2-3-4-5-7",
+      "1-2-3-4-5-6-7",
+      "6-2-1-3-4-5-7"
+    ],
+    "a": 1,
+    "why": "Dentition lecture gives mandibular 6→1→2→3→4→5→7.",
+    "src": "Dentition lecture",
+    "id": 83,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 07 Dentitions lecture — dental follicle, eruption sequence, arch changes"
+  },
+  {
+    "q": "Most permanent teeth emerge between which developmental stages?",
+    "c": [
+      "A and B",
+      "C and D",
+      "F and G",
+      "H and I"
+    ],
+    "a": 2,
+    "why": "Dental age slide states most teeth emerge between stages F and G.",
+    "src": "Dentition lecture",
+    "id": 84,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 07 Dentitions lecture — dental follicle, eruption sequence, arch changes"
+  },
+  {
+    "q": "Permanent successors erupt relative to primary predecessors:",
+    "c": [
+      "Lingually",
+      "Buccally only",
+      "Distally only",
+      "No pattern"
+    ],
+    "a": 0,
+    "why": "Dentition slide: permanent successors erupt lingually to primary predecessors.",
+    "src": "Dentition lecture",
+    "id": 85,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 07 Dentitions lecture — dental follicle, eruption sequence, arch changes"
+  },
+  {
+    "q": "Anomalies of number are associated with:",
+    "c": [
+      "Ectodermal dysplasia only",
+      "Cleft lip/palate only",
+      "Cleidocranial dysplasia only",
+      "Ectodermal dysplasia, cleft lip/palate, and cleidocranial dysplasia"
+    ],
+    "a": 3,
+    "why": "TQ list names all three syndromic associations.",
+    "src": "Etiology/dental anomalies lecture",
+    "id": 86,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 03 Etiology — dental anomalies and syndromic associations"
+  },
+  {
+    "q": "Example of microdontia:",
+    "c": [
+      "Peg lateral",
+      "Taurodontia",
+      "Odontoma",
+      "Anodontia"
+    ],
+    "a": 0,
+    "why": "Peg lateral is a classic size anomaly/microdontia example.",
+    "src": "Etiology/dental anomalies lecture",
+    "id": 87,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 03 Etiology — dental anomalies and syndromic associations"
+  },
+  {
+    "q": "Dens vaginatus is mainly an anomaly of:",
+    "c": [
+      "Shape",
+      "Number",
+      "Eruption timing",
+      "Arch length"
+    ],
+    "a": 0,
+    "why": "TQ key: problem is shape.",
+    "src": "Dental anomalies lecture",
+    "id": 88,
+    "verified": "Verified with caution",
+    "auditSource": "Lesson 03 Etiology — disturbances of dental development/anomalies"
+  },
+  {
+    "q": "Lack of initiation in tooth life cycle causes:",
+    "c": [
+      "Agenesis",
+      "Odontomas",
+      "Taurodontia",
+      "Root dilaceration"
+    ],
+    "a": 0,
+    "why": "Dental development: failure of initiation leads to missing tooth/agenesis.",
+    "src": "Dental development lecture",
+    "id": 89,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 03 Etiology — dental development stages: initiation/proliferation/etc."
+  },
+  {
+    "q": "Overproliferation can cause:",
+    "c": [
+      "Odontomas",
+      "Agenesis only",
+      "No effect",
+      "Cleft lip"
+    ],
+    "a": 0,
+    "why": "TQ/dental development: overproliferation may produce odontomas.",
+    "src": "Dental development lecture",
+    "id": 90,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 03 Etiology — dental development stages: initiation/proliferation/etc."
+  },
+  {
+    "q": "Histodifferentiation disturbances can affect:",
+    "c": [
+      "Dentin and enamel",
+      "Only arch width",
+      "Only jaw growth",
+      "Only fontanelles"
+    ],
+    "a": 0,
+    "why": "Histodifferentiation affects tissue types, including dentin/enamel formation.",
+    "src": "Dental anomalies lecture",
+    "id": 91,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 03 Etiology — disturbances of dental development/anomalies"
+  },
+  {
+    "q": "Morphodifferentiation disturbances can cause:",
+    "c": [
+      "Taurodontia and peg lateral",
+      "Agenesis only",
+      "Cleft palate only",
+      "Adenoid enlargement"
+    ],
+    "a": 0,
+    "why": "Morphodifferentiation affects tooth shape/form.",
+    "src": "Dental anomalies lecture",
+    "id": 92,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 03 Etiology — disturbances of dental development/anomalies"
+  },
+  {
+    "q": "First stage of permanent eruption around age 6 includes:",
+    "c": [
+      "Mandibular incisors and first molars",
+      "Canines only",
+      "Second molars only",
+      "Premolars only"
+    ],
+    "a": 0,
+    "why": "Dentition notes list mandibular incisors and first molars erupting around age 6.",
+    "src": "Dentition lecture",
+    "id": 93,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 07 Dentitions lecture — dental follicle, eruption sequence, arch changes"
+  },
+  {
+    "q": "Hypodontia most frequently affects:",
+    "c": [
+      "Third molars",
+      "Central incisors",
+      "Mandibular canines",
+      "All teeth equally"
+    ],
+    "a": 0,
+    "why": "TQ key states third molars are most frequently missing.",
+    "src": "Dental anomalies lecture",
+    "id": 94,
+    "verified": "Verified with caution",
+    "auditSource": "Lesson 03 Etiology — disturbances of dental development/anomalies"
+  },
+  {
+    "q": "Clinical presentation of dental anomalies of number includes all EXCEPT:",
+    "c": [
+      "Hypodontia",
+      "Hyperdontia",
+      "Anodontia",
+      "Mandible"
+    ],
+    "a": 3,
+    "why": "Mandible is an anatomic bone, not a number anomaly presentation.",
+    "src": "Dental anomalies lecture",
+    "id": 95,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 03 Etiology — disturbances of dental development/anomalies"
+  },
+  {
+    "q": "Oral habit tooth movement depends most critically on:",
+    "c": [
+      "Intensity",
+      "Duration",
+      "Frequency",
+      "Color of appliance"
+    ],
+    "a": 1,
+    "why": "Orthodontic habit effects depend on intensity, duration, and frequency; duration is most critical for movement.",
+    "src": "Etiology/oral habits lecture",
+    "id": 96,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 03 Etiology — environmental influences and oral habits"
+  },
+  {
+    "q": "Oral habit considered abnormal toward the end of age group:",
+    "c": [
+      "0–1",
+      "1–2",
+      "3–6",
+      "12–18"
+    ],
+    "a": 2,
+    "why": "TQ key: oral habits become abnormal toward end of 3–6 age group.",
+    "src": "Etiology/oral habits lecture",
+    "id": 97,
+    "verified": "Verified with caution",
+    "auditSource": "Lesson 03 Etiology — environmental influences and oral habits"
+  },
+  {
+    "q": "Crowding from childhood to adulthood:",
+    "c": [
+      "Increases",
+      "Decreases",
+      "No change",
+      "Disappears"
+    ],
+    "a": 0,
+    "why": "Normal occlusion changes include increased crowding over time.",
+    "src": "Dentition/occlusion lecture",
+    "id": 98,
+    "verified": "Lecture-verified",
+    "auditSource": "Dentition/occlusion lecture"
+  },
+  {
+    "q": "A distal step primary molar relationship becoming Class I permanent molar is approximately:",
+    "c": [
+      "0%",
+      "30%",
+      "50%",
+      "100%"
+    ],
+    "a": 0,
+    "why": "TQ key states 0% for distal step becoming Class I.",
+    "src": "Dentition/occlusion lecture",
+    "id": 99,
+    "verified": "Verified with caution",
+    "auditSource": "Dentition/occlusion lecture"
+  },
+  {
+    "q": "Language and speech delays can be related to:",
+    "c": [
+      "Hearing loss",
+      "Psychosocial deprivation",
+      "Bilingualism/autism/other factors",
+      "All choices"
+    ],
+    "a": 3,
+    "why": "Pediatric development review lists multiple possible causes; single-cause thinking gets banished to the dungeon.",
+    "src": "Children development lecture",
+    "id": 100,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 10 Children’s Growth & Development slides"
+  },
+  {
+    "q": "Fine motor development such as smiling is part of physical development.",
+    "c": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "why": "TQ and development notes treat fine motor/smiling as physical development.",
+    "src": "Children physical development lecture",
+    "id": 101,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 10 Physical Development slides"
+  },
+  {
+    "q": "Child development refers to periods of change and stability.",
+    "c": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "why": "Lecture defines development as processes of change and stability from conception through adolescence.",
+    "src": "Children development lecture",
+    "id": 102,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 10 Children’s Growth & Development slides"
+  },
+  {
+    "q": "Attachment occurs in the later half of a two-year-old.",
+    "c": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "why": "TQ correction: attachment/separation anxiety appears earlier, around latter half of first year, not second year.",
+    "src": "Children psychosocial lecture",
+    "id": 103,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 10 Psychosocial/Socio-emotional development slides"
+  },
+  {
+    "q": "Separation and stranger anxiety appear during second half of second year.",
+    "c": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "why": "Lecture/TQ correction says late first year, not second year.",
+    "src": "Children psychosocial lecture",
+    "id": 104,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 10 Psychosocial/Socio-emotional development slides"
+  },
+  {
+    "q": "All basic neural structures are present at birth; therefore postnatal influences cannot affect new brain connections.",
+    "c": [
+      "Both true",
+      "First true, second false",
+      "First false, second true",
+      "Both false"
+    ],
+    "a": 1,
+    "why": "Basic structures exist at birth, but postnatal environment strongly affects connections.",
+    "src": "Children brain development lecture",
+    "id": 105,
+    "verified": "Lecture-verified",
+    "auditSource": "Children brain development lecture"
+  },
+  {
+    "q": "All are cognitive characteristics of a 5-year-old EXCEPT:",
+    "c": [
+      "Pays attention to complete sentence",
+      "Less egocentric",
+      "More logical than toddler",
+      "Psychosocial item"
+    ],
+    "a": 3,
+    "why": "The “psychosocial” option is not a cognitive characteristic; sneaky goblin answer.",
+    "src": "Children cognitive development lecture",
+    "id": 106,
+    "verified": "Lecture-verified",
+    "auditSource": "Children cognitive development lecture"
+  },
+  {
+    "q": "All are cognitive characteristics of a 2-year-old EXCEPT:",
+    "c": [
+      "Attention span 4–8 minutes",
+      "Begins symbolic thought",
+      "Thinks about actions",
+      "Pretend play emerging"
+    ],
+    "a": 0,
+    "why": "TQ note says 2-year-old attention span is closer to 1–5 minutes; 4–8 is too high.",
+    "src": "Children development lecture",
+    "id": 107,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 10 Children’s Growth & Development slides"
+  },
+  {
+    "q": "A child who is less egocentric is most likely in:",
+    "c": [
+      "Early childhood around 5",
+      "Newborn period",
+      "Prenatal period",
+      "Only adulthood"
+    ],
+    "a": 0,
+    "why": "Review screenshot flags “less egocentric” as the key exception/characteristic around 5-year cognition.",
+    "src": "Children cognitive development lecture",
+    "id": 108,
+    "verified": "Lecture-verified",
+    "auditSource": "Children cognitive development lecture"
+  },
+  {
+    "q": "Four domains of development include:",
+    "c": [
+      "Physical, cognitive, language, socio-emotional",
+      "Only physical and dental",
+      "Only psychosocial",
+      "Only cognitive"
+    ],
+    "a": 0,
+    "why": "Children development lecture lists four interrelated domains.",
+    "src": "Children development lecture",
+    "id": 109,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 10 Children’s Growth & Development slides"
+  },
+  {
+    "q": "Five periods of child development include prenatal, infancy/toddlerhood, early childhood, middle childhood, adolescence.",
+    "c": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "why": "This is directly listed in the child development lecture objectives/slides.",
+    "src": "Children development lecture",
+    "id": 110,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 10 Children’s Growth & Development slides"
+  },
+  {
+    "q": "Schema is associated with:",
+    "c": [
+      "Jean Piaget",
+      "Edward Angle",
+      "Björk",
+      "Moss only"
+    ],
+    "a": 0,
+    "why": "Children development slide states schema is a term put forward by Piaget.",
+    "src": "Children cognitive development lecture",
+    "id": 111,
+    "verified": "Lecture-verified",
+    "auditSource": "Children cognitive development lecture"
+  },
+  {
+    "q": "Schemas can contribute to stereotypes by filtering new information.",
+    "c": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "why": "Lecture slide notes schemas can exclude information and reinforce pre-existing beliefs/stereotypes.",
+    "src": "Children cognitive development lecture",
+    "id": 112,
+    "verified": "Lecture-verified",
+    "auditSource": "Children cognitive development lecture"
+  },
+  {
+    "q": "Best growth assessment method in order is:",
+    "c": [
+      "Serial cephalometric superimposition, hand-wrist, cervical vertebrae",
+      "Cervical vertebrae, hand-wrist, serial ceph",
+      "Hand-wrist only",
+      "Adenoid size only"
+    ],
+    "a": 0,
+    "why": "Assessment lecture ranks serial ceph superimposition best, hand-wrist second, cervical vertebrae third.",
+    "src": "Assessment of growth status",
+    "id": 113,
+    "verified": "Lecture-verified",
+    "auditSource": "Assessment of growth status"
+  },
+  {
+    "q": "Hand-wrist radiograph is generally more accurate than cervical vertebrae for growth assessment in this lecture ranking.",
+    "c": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "why": "The lecture ranking places hand-wrist above cervical vertebrae.",
+    "src": "Assessment of growth status",
+    "id": 114,
+    "verified": "Lecture-verified",
+    "auditSource": "Assessment of growth status"
+  },
+  {
+    "q": "Structural method of superimposition was developed by:",
+    "c": [
+      "Arne Björk",
+      "Edward Angle",
+      "Moss",
+      "Piaget"
+    ],
+    "a": 0,
+    "why": "Assessment slide: Structural Method of Superimposition developed by Dr. Arne Björk.",
+    "src": "Assessment lecture",
+    "id": 115,
+    "verified": "Lecture-verified",
+    "auditSource": "Assessment lecture"
+  },
+  {
+    "q": "Stable anterior cranial base structures include inner contour of anterior wall of sella turcica and cribriform plate contour.",
+    "c": [
+      "True",
+      "False"
+    ],
+    "a": 0,
+    "why": "The superimposition slide lists these among stable anterior cranial base structures.",
+    "src": "Assessment lecture",
+    "id": 116,
+    "verified": "Lecture-verified",
+    "auditSource": "Assessment lecture"
+  },
+  {
+    "q": "Primary vertical maxillary superimposition structures include:",
+    "c": [
+      "Orbital floor apposition and nasal floor resorption",
+      "Only molar eruption",
+      "Only chin",
+      "Only sella"
+    ],
+    "a": 0,
+    "why": "Assessment slide: orbital floor apposition upward and nasal floor resorption downward.",
+    "src": "Assessment lecture",
+    "id": 117,
+    "verified": "Lecture-verified",
+    "auditSource": "Assessment lecture"
+  },
+  {
+    "q": "Theory can become a law if proven enough.",
+    "c": [
+      "True",
+      "False"
+    ],
+    "a": 1,
+    "why": "Growth theory slide states a theory cannot become a law; they serve different roles.",
+    "src": "Cranial vault/base lecture",
+    "id": 118,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 04 Cranial Vault/Cranial Base — bone formation, theories, hypothesis/law slides"
+  },
+  {
+    "q": "A scientific hypothesis is:",
+    "c": [
+      "A proposed answer to a researchable, testable question",
+      "A guaranteed law",
+      "A random opinion",
+      "A clinical appliance"
+    ],
+    "a": 0,
+    "why": "Lecture describes hypothesis as a proposed, testable explanatory answer.",
+    "src": "Cranial vault/base lecture",
+    "id": 119,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 04 Cranial Vault/Cranial Base — bone formation, theories, hypothesis/law slides"
+  },
+  {
+    "q": "Which has weakest evidence strength?",
+    "c": [
+      "Systematic review",
+      "Randomized trial",
+      "Professional opinion",
+      "Cohort study"
+    ],
+    "a": 2,
+    "why": "TQ key: professional opinions are weakest evidence.",
+    "src": "Evidence slide/review",
+    "id": 120,
+    "verified": "Verified with caution",
+    "auditSource": "Lecture screenshot material on evidence strength; verified conceptually against review slides"
+  },
+  {
+    "q": "Functional matrix hypothesis was proposed by:",
+    "c": [
+      "Moss",
+      "Angle",
+      "Piaget",
+      "Fishman"
+    ],
+    "a": 0,
+    "why": "History of growth theories slide lists Functional Matrix Hypothesis with Moss.",
+    "src": "Cranial vault/base lecture",
+    "id": 121,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 04 Cranial Vault/Cranial Base — bone formation, theories, hypothesis/law slides"
+  },
+  {
+    "q": "Nasal septum theory was associated with:",
+    "c": [
+      "Scott",
+      "Moss",
+      "Angle",
+      "Piaget"
+    ],
+    "a": 0,
+    "why": "History slide lists nasal septum theory (1950s): Scott.",
+    "src": "Cranial vault/base lecture",
+    "id": 122,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 04 Cranial Vault/Cranial Base — bone formation, theories, hypothesis/law slides"
+  },
+  {
+    "q": "Sutural theory was associated with:",
+    "c": [
+      "Weinmann and Sicher",
+      "Piaget",
+      "Fishman",
+      "Björk only"
+    ],
+    "a": 0,
+    "why": "History slide lists sutural theory with Weinmann & Sicher.",
+    "src": "Cranial vault/base lecture",
+    "id": 123,
+    "verified": "Lecture-verified",
+    "auditSource": "Lesson 04 Cranial Vault/Cranial Base — bone formation, theories, hypothesis/law slides"
+  }
+]
