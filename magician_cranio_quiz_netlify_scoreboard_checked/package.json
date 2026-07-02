@@ -1,1 +1,1 @@
-{"scripts":{"build":"echo static site ready"},"dependencies":{"@netlify/blobs":"latest"},"devDependencies":{}}
+{"scripts":{"build":"echo static site ready"},"dependencies":{"@netlify/blobs":"10.7.9"},"devDependencies":{}}
